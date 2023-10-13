@@ -25,7 +25,7 @@
 
 자세한 내용이나 협업에 관심이 있다면 언제든지 저에게 연락해주세요. 
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![한명준의 github] https://github.com/hm0874
 
 감사합니다!
 
