@@ -18,7 +18,8 @@
    - 사용 기술
      * 언어 : JAVA, Kotlin
      * 개발 환경 : Android Studio, Retrofit, Firebase, Intellij idea, spring boot, MySQL
-   - GitHub 링크: https://github.com/hm0874/jj_club_fire
+   - GitHub 링크 : https://github.com/hm0874/jj_club_fire
+   - Front-Team 기록물 : https://morning-hyssop-0b4.notion.site/Front-team-cc9eabeda9294982b979eb9453d1732c
 
 
 ## 📫 연락
