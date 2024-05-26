@@ -1,15 +1,18 @@
 # 안녕하세요! 👋
 
-제 이름은 한명준이고, 전라북도 전주시에 사는 프론트 개발자입니다.
+제 이름은 한명준이고, 전라북도 전주시에 사는 AI 개발자입니다.
+
 
 ## 💻 기술 스택
 
 - 언어: JAVA, Kotlin
 - 도구: Android Studio, Github
 
+
 ## 🤝 연락 방법
 
 - 이메일: hm0874@gmail.com, hmj0874@naver.com
+
 
 ## 🚀 프로젝트
 
@@ -21,8 +24,10 @@
    - GitHub 링크 : https://github.com/hm0874/jj_club_fire
    - Front-Team 기록물 : https://morning-hyssop-0b4.notion.site/Front-team-cc9eabeda9294982b979eb9453d1732c
 
+
 ## 🤖 KT-AIVLE School AI 5기
 - 2차 코딩마스터스 : https://github.com/hm0874/KT-AIVLE-School 
+
 
 ## 📫 연락
 
