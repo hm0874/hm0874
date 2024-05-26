@@ -4,8 +4,8 @@
 
 ## 💻 기술 스택
 
-- 언어: JAVA, Kotlin
-- 도구: Android Studio, Github
+- 언어: JAVA, Kotlin, Python
+- 도구: Android Studio, VisualStudio Code, Github
 
 ## 🤝 연락 방법
 
