@@ -24,6 +24,7 @@
 ## 🤖 KT-AIVLE School AI 5기
 - 2차 코딩마스터스 : https://github.com/hm0874/KT-AIVLE-School
 - 빅프로젝트(꾼꾼농사꾼) : https://github.com/kt-bigproject28/kunkunnongsakun
+- KT-AIVLE School AI 5기 수료증 : https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/bWk1c2ZBSGxaM2hDZnNhTFAxM0dnQT09
 
 ## 📫 연락
 
